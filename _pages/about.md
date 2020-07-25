@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jack Stanley"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
